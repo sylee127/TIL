@@ -1,22 +1,22 @@
 # 03_GitHub
 
-# **원격 저장소 (remote repository)**
-
 ## **기본 설정**
+
+# **원격 저장소 (remote repository)**
 
 1. 로컬 git 저장소 준비
 
 2. Github repository 생성
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24222ced-cd02-43c0-bbf3-eba22d1d801e/image-20210623170259834.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24222ced-cd02-43c0-bbf3-eba22d1d801e/image-20210623170259834.png)
+![pic1](03_GitHub/pic1.png)
 
 3. Repository default branch 변경 (settings -> repositories)
 
-   - main -> master로 변경
+- main -> master로 변경
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c405a7c2-8fc4-4537-99e0-b62da2ac2cfb/tempsnip.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c405a7c2-8fc4-4537-99e0-b62da2ac2cfb/tempsnip.png)
+![pic2](03_GitHub/pic2.png)
 
-   ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c405a7c2-8fc4-4537-99e0-b62da2ac2cfb/tempsnip.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c405a7c2-8fc4-4537-99e0-b62da2ac2cfb/tempsnip.png)
+![pic3](03_GitHub/pic3.png)
 
 ## **명령어**
 
